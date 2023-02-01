@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\bin\Debug\net7.0\Utilitis.deps.json
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\bin\Debug\net7.0\Utilitis.runtimeconfig.json
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\bin\Debug\net7.0\Utilitis.dll
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\bin\Debug\net7.0\Utilitis.pdb
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.AssemblyInfo.cs
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.dll
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\refint\Utilitis.dll
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.pdb
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\Utilitis.genruntimeconfig.cache
+C:\Users\User\source\repos\Provider29_01_2023\Utilitis\obj\Debug\net7.0\ref\Utilitis.dll
